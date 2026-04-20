@@ -24,7 +24,7 @@
 | [soundart](https://github.com/Funahara-Masato/soundart) — [demo](https://funahara-masato.github.io/soundart/) | 10 秒録音するだけで惑星が生まれ成長する PWA。Web Audio API で周波数解析し、音の特徴を惑星パラメータにマッピング。 | JavaScript / Web Audio API |
 | [confused-ad](https://github.com/Funahara-Masato/confused-ad) — [demo](https://funahara-masato.github.io/confused-ad/) | 打鍵リズムやマウス動作からユーザーの困惑度をリアルタイムで推定し、広告表示を動的に変化させる実験的デモ。修士研究の概念をブラウザ上で実装したもの。 | JavaScript |
 | [stock_visualization_prediction](https://github.com/Funahara-Masato/stock_visualization_prediction) — [demo](https://stockvisualizationprediction-ldxavncflckiviposxcjym.streamlit.app/) | 複数銘柄の株価をグラフで可視化し、機械学習モデルで翌日の値動きを予測する Web アプリ。 | Python / Streamlit / scikit-learn |
-| [sorasend](https://github.com/Funahara-Masato/sorasend) | 撮影した夜空の写真を、指定した国や地域で夜になるタイミングに合わせて届ける Web アプリ。 | JavaScript |
+| [sorasend](https://github.com/Funahara-Masato/sorasend) — [demo](https://funahara-masato.github.io/sorasend/) | 撮影した夜空の写真を、指定した国や地域で夜になるタイミングに合わせて届ける Web アプリ。 | JavaScript |
 | [fighting_game](https://github.com/Funahara-Masato/fighting_game) | Pygame を使って実装した 2D スティックマン格闘ゲーム。 | Python / Pygame |
 
 ## Research
